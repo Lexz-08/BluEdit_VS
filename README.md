@@ -1,4 +1,4 @@
-# BluEdit_VS
+# BluEdit_VS **`[ARCHIVED]`**
 ## Description
 A color theme for the Visual Studio (2022/2019) editor.
 
